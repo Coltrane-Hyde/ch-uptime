@@ -76,19 +76,19 @@
     "url": "https://private.theb2t.com",
     "icon": "https://icons.duckduckgo.com/ip3/private.theb2t.com.ico",
     "slug": "b2-t-private",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 132,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "status": "up",
+    "uptime": "89.02%",
+    "uptimeDay": "78.82%",
+    "uptimeWeek": "89.02%",
+    "uptimeMonth": "89.02%",
+    "uptimeYear": "89.02%",
+    "time": 173,
+    "timeDay": 135,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-05-01": 0
+      "2025-05-01": 305
     }
   },
   {
