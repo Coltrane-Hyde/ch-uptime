@@ -76,18 +76,20 @@
     "url": "https://private.theb2t.com",
     "icon": "https://icons.duckduckgo.com/ip3/private.theb2t.com.ico",
     "slug": "b2-t-private",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 171,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "time": 181,
+    "timeDay": 132,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
+    "dailyMinutesDown": {
+      "2025-05-01": 0
+    }
   },
   {
     "name": "TBG Prod",
