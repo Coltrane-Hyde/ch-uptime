@@ -22,19 +22,19 @@
     "url": "https://leanermvp.com",
     "icon": "https://icons.duckduckgo.com/ip3/leanermvp.com.ico",
     "slug": "leaner-mvp-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 661,
-    "timeWeek": 720,
-    "timeMonth": 736,
-    "timeYear": 736,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 758,
+    "timeDay": 924,
+    "timeWeek": 778,
+    "timeMonth": 758,
+    "timeYear": 758,
     "dailyMinutesDown": {
-      "2025-05-14": 0
+      "2025-05-14": 15
     }
   },
   {
