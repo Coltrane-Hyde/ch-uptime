@@ -139,19 +139,19 @@
     "url": "https://staging.theb2t.com/",
     "icon": "https://icons.duckduckgo.com/ip3/staging.theb2t.com.ico",
     "slug": "b2-t-website-staging",
-    "status": "down",
-    "uptime": "60.53%",
-    "uptimeDay": "60.53%",
-    "uptimeWeek": "60.53%",
-    "uptimeMonth": "60.53%",
-    "uptimeYear": "60.53%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
+    "time": 1015,
+    "timeDay": 1015,
+    "timeWeek": 1015,
+    "timeMonth": 1015,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2025-08-06": 0
+      "2025-08-06": 24
     }
   }
 ]
