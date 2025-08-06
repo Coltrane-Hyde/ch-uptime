@@ -15,8 +15,10 @@ sites:
     url: https://private.theb2t.com
   - name: TBG Prod
     url: https://tbgplatform.com
-  - name: B2T Website
+  - name: B2T Website Prod
     url: https://theb2t.com
+  - name: B2T Website Staging
+    url: https://staging.theb2t.com/
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
