@@ -22,7 +22,7 @@
     "url": "https://leanermvp.com",
     "icon": "https://icons.duckduckgo.com/ip3/leanermvp.com.ico",
     "slug": "leaner-mvp-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 816,
     "timeYear": 812,
     "dailyMinutesDown": {
+      "2025-08-06": 0,
       "2025-05-25": 1009,
       "2025-05-24": 54,
       "2025-05-21": 19
